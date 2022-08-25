@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KushalS25
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning by practising working on different datasets available publically
+- 👀 I’m a Data Science Enthusiast
+- 🌱 I’m passionate about learning by practising & working on different datasets to solve problems.
 - 💞️ I’m looking to collaborate on stengthening my Data Analytics skills
 - 📫 How to reach me singhal.kushal@gmail.com
 
